@@ -1,0 +1,18 @@
+.App {
+  max-width: 400px;
+  margin: auto;
+  font-family: sans-serif;
+}
+input, select, textarea {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 8px;
+}
+button {
+  background-color: #006eff;
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
